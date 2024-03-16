@@ -1,0 +1,29 @@
+body{
+    background-color: oldlace;
+}
+.list{
+    text-align: center;
+}
+.head{
+    background-color: coral;
+    position: sticky;
+}
+h1{
+    text-align: center;
+}
+.td{
+    color: rgb(230, 150, 21);
+    padding-right: 10px;
+}
+.div{
+    text-align: center;
+    
+    margin-left:50px ;
+}
+.gotohomepage{
+    text-align: center;
+    text-decoration:wavy;
+}
+.details{
+    text-align: left;
+}
